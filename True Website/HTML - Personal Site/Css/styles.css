@@ -1,0 +1,276 @@
+
+.navbar {
+  margin: 0;
+}
+.navbar-brand {
+  padding-top: 27px;
+}
+h2 {
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.header {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472510099/74166_opocvl.jpg') no-repeat center fixed;
+}
+.bg-overlay {
+  background: rgba(0,0,0,0.8);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.head {
+  padding-top: 50px;
+}
+.social-links {
+  list-style: none;
+  padding-bottom: 50px;
+  padding-right: 40px;
+}
+.social-links>li {
+  display: inline-block;
+  background-color: #EBF4FA;
+  padding: 5px;
+  border-radius: 30%
+}
+.social-links>li:hover {
+  background-color: #000;
+}
+li {
+  margin: 10px 5px;
+}
+.contentA {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472503634/grand_teton_mountain_lake_reflections-1920x1080_nrtkex.jpg') no-repeat center fixed;
+}
+.bg-overlay1 {
+  background: rgba(0,0,0,0.6);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.about-header {
+  padding: 50px 0 25px 0;
+}
+.me {
+  padding: 25px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  font-size: 1.2em;
+  color: #EBF4FA;
+  padding: 15px 0;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.about-last {
+  padding-bottom: 50px;
+}
+.contentB {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472511455/456498_fzvnfs.jpg') no-repeat center fixed;
+}
+.bg-overlay2 {
+  background: rgba(0,0,0,0.7);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.education {
+  padding: 50px 0 25px 0;
+}
+.capella {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.capella-text {
+  color: #EBF4FA;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.sh {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sh-text {
+  color: #EBF4FA;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.isu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.isu-text {
+  color: #EBF4FA;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.end-education {
+  padding-bottom: 50px;
+}
+.contentC {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472512640/sea-1920x1080-ocean-water-sunset-sunrise-blue-rays-602_e8sins.jpg') no-repeat center fixed;
+}
+.bg-overlay3 {
+  background: rgba(0,0,0,0.5);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.experience {
+  padding: 50px 0 25px 0;
+}
+.affinity {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ipns {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.kyani {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.last-experience {
+  padding-bottom: 50px;
+}
+.contentD {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472512966/mac-pro-1920x1080-imac-workstation-g5-ram-apple-monitor-mouse-3201_vzhupm.jpg') no-repeat center fixed;
+}
+.bg-overlay4 {
+  background: rgba(0,0,0,0.5);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.portfolio {
+  padding: 50px 0 25px 0;
+}
+.thumb {
+  padding: 0 50px 50px 50px;
+}
+.contentE {
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  color: #EBF4FA;
+  z-index: -1;
+  background: url('https://res.cloudinary.com/dhlsxlkrc/image/upload/v1472513197/oppo-r5-gilded-limited-edition-1920x1080-best-smartphones-2015-review-3837_pmbpgt.jpg') no-repeat center fixed;
+}
+.bg-overlay5 {
+  background: rgba(0,0,0,0.5);
+  height: auto;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+.contact {
+  padding: 50px 0 25px 0;
+}
+.bottom {
+  padding: 25px 0 0 0;
+}
+.social-bottom {
+  padding-right: 20px;
+}
+/* Media Queries */
+@media (max-width: 992px) {
+  .navbar-brand {
+    padding-top: 15px !important;
+  }
+  .header {
+    background: none;
+  }
+  .bg-overlay {
+    background: rgba(0,0,0,0.8);
+  }
+  .contentA {
+    background: none;
+  }
+  .bg-overlay1 {
+    background: rgba(0,0,0,0.5);
+  }
+  .contentB {
+    background: none;
+  }
+  .bg-overlay2 {
+    background: rgba(0,0,0,0.8);
+  }
+  .contentC {
+    background: none;
+  }
+  .bg-overlay3 {
+    background: rgba(0,0,0,0.5);
+  }
+  .contentD {
+    background: none;
+  }
+  .bg-overlay4 {
+    background: rgba(0,0,0,0.8);
+  }
+  .contentE {
+    background: none;
+  }
+  .bg-overlay5 {
+    background: rgba(0,0,0,0.5);
+  }
+  .social-links {
+    margin-left: -10px;
+  }
+  .thumb {
+    padding: 0 75px 50px 100px;
+  }
+}
+
+.directory {
+  color: black;
+  background-color: gray;
+}
